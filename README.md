@@ -3,14 +3,14 @@
 </h1>
 <!-- <img align="right" width=400px height=400px alt="landing gif" src="https://github.com/probro27/landing-design/blob/main/PK%20.gif" /> -->
 
-Hey! I am a (honours) undergraduate student majoring in mathematics at the University of Waterloo, Canada.
+Hey! I am a (honours) undergraduate student studying in mathematics and economics at the University of Waterloo, Canada.
 
-My research interests are in the field of: 
-- Analytic and probabilistic number theory (Additive and multiplicative number theory - moments and zeros (with zero-free region) of L-functions, sieve methods and gap between primes, large deviation principle and limit distributions of arithmetic functions with generalized Erdös-Kac and Selberg's CLT; Diophantine approximation)
-- Arithmetic statistics and combinatorial number theory (average behavior and distribution of elliptic curves and class groups, theory of modular forms and automorphic forms, arithmetic (additive) combinatorics, probabilistic and analytic combinatorics)
-- Probability theory and Stochastic analysis (Limit theorems and large deviation theory on generalized topological spaces, Stochastic partial differential equations, random fields, random matrix theory, mixing times of markov chains)
-- Mathematical statistics and Statistical theory (Asymptotic and convergence methods for statistical estimators and statistical inference theory)
-- Applications: Mathematical finance (Continuous-time models using Malliavin and Itô's calculus), Quantatiative risk theory (Generalized risk measures, copula's, extreme value theory, ruin theory), Econometric theory and Mathematical economic theory (Generalized empirical likelihood and method of moments, utility theory)
+My primary research interests broadly lie in analytic and probabilistic topics (focused on theory): 
+- Probability Theory and Stochastic Analysis
+- Mathematical Statistics and Statistical Inference Theory
+- Analytic and Probabilistic Number Theory and Combinatorics; and Arithmetic Statistics
+- Mathematical Economic Theory and Statistical Econometric Theory
+- Mathematical Finance and Quantitative Risk Theory
 
 ## My Stats
 
